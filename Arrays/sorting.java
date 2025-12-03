@@ -15,7 +15,7 @@ public class sorting {
                     int temp=arr[i];
                     arr[i] = arr[j+1];
                     arr[j+1] = temp;
-                    return arr[i]+" "+arr[j];
+                    return arr[i]+arr[j];
                     
 
                 }

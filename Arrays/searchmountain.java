@@ -2,15 +2,15 @@ public class searchmountain {
     public static void main(String[] args) {
         int[] arr={0,1,2,3,4,5,4,3,1};
         int target=3;
-        
+        se(arr, 3);
     }
-    static int se(int[] arr){
+    static int se(int[] arr, int i){
         int peak=findpeak(arr);
-        int first=search(arr, target, 0, peak);
+        int first=search(arr, i, 0, peak);
         if(first!=-1){
             return first;
         }else{
-            
+            return 0;
         }
     }
     static int findpeak(int[] arr) {

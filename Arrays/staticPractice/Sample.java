@@ -9,8 +9,8 @@ public class Sample {
         num.n = 20;
         System.out.println(num.n);
         number();
-        Sample1 num=new Sample1();
-        System.out.println(num.num2);
+        Sample1 num1=new Sample1();
+        System.out.println(num1.num2);
     }
     public static void number() {
         System.out.println(new Sample().n);
