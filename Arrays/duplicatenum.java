@@ -19,8 +19,6 @@ public class duplicatenum {
                 else{
                     return nums[i];
                 }
-            }else{
-                
             }
         }
     return -1;

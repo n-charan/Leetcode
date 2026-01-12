@@ -7,7 +7,6 @@ public class Allmissingnum {
         int[] nums = { 3, 2, 0, 5 };
         System.out.println(search(nums));
     }
-
     public static List<Integer> search(int[] nums) {
         int i = 0;
         while (i < nums.length) {

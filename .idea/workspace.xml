@@ -5,99 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a7d652b-0fe8-4038-b6d8-35107d4be3a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/PhonePad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/SkipA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/SkipWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/SubSeq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/amazon/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SubSet/mazeproblems/Maze.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/searchmountain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/searchmountain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/staticPractice/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/staticPractice/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Allmissingnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/BuyStock121.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/ConcatArray1929.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Leetcode1480.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/MaxConsecutive485.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Maxconsicutive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Missingnum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/NumberiProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/ProductArray238.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Richwalth1672.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/SIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/SortColors75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/SumZeroLeetcode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/ValidMountain941.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Zerosend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/allduplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/duplicatenum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/firstpositivemissing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/maxoncs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/setmismatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/singlenumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/FindInRotaed153.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/FirstLastOccur34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/PeakIndex182.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/PeakIndexMou852.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/SearchInRotated2_81.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/SearchInRotated33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/SearchIndex704.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/SingleElement540.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/BinarySearch/TargetIndex35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/DailyQuestions/xyz3516.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Sorting/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Sorting/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/GuessGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/SumofArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/Unique.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/arraysort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/guess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/recursion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/searchinarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/kunalAssignments/sumofn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/patternprograms/numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Binearchsearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Countingzeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/LinearsearchAll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Nto1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/OnetotN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Patterns/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/PowerOfThree326.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Reverseanum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Secret.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/SortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Stepstakentozero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Stepstozero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/Sumofdigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/CountZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/NTo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/ReverseNum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/basicPrograms/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/recursion/sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/Countingzeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/Countingzeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/StartZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SwapArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SubSet/case300.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Allmissingnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Arrays/Allmissingnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/Zerosend.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/Arrays/Zerosend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/allduplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/allduplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/duplicatenum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/duplicatenum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kunalAssignments/guess.java" beforeDir="false" afterPath="$PROJECT_DIR$/kunalAssignments/guess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Allmissingnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Allmissingnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Zerosend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/Arrays/Zerosend.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,57 +53,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindInRotaed153.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maze.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Permutations.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PhonePad.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SkipA.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SkipWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSeq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSet.amazon.Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.allduplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.binary.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Allmissingnum.executor": "Run",
+    "Application.Case448.executor": "Debug",
+    "Application.Case784.executor": "Debug",
+    "Application.Dice.executor": "Run",
+    "Application.FindInRotaed153.executor": "Run",
+    "Application.IsSubseq392.executor": "Debug",
+    "Application.Maze.executor": "Debug",
+    "Application.Permutations.executor": "Debug",
+    "Application.PhonePad.executor": "Run",
+    "Application.SkipA.executor": "Run",
+    "Application.SkipWord.executor": "Run",
+    "Application.StartZeros.executor": "Debug",
+    "Application.SubSeq.executor": "Run",
+    "Application.SubSet.amazon.Dice.executor": "Run",
+    "Application.SwapArray.executor": "Run",
+    "Application.Zerosend.executor": "Run",
+    "Application.allduplicate.executor": "Run",
+    "Application.binary.executor": "Run",
+    "Application.case300.executor": "Run",
+    "Application.guess.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.SubSeq">
-    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.amazon.Dice" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.amazon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSet.mazeproblems.Maze" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SubSet.mazeproblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SkipWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSet.SkipWord" />
+}]]></component>
+  <component name="RunManager" selected="Application.guess">
+    <configuration name="Case448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSet.Case448" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -196,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSeq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSet.SubSeq" />
+    <configuration name="Case784" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSet.Case784" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -209,12 +111,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubSet.amazon.Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubSet.amazon.Dice" />
+    <configuration name="IsSubseq392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSet.IsSubseq392" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SubSet.amazon.*" />
+          <option name="PATTERN" value="SubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="case300" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubSet.case300" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SubSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kunalAssignments.guess" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kunalAssignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubSeq" />
-        <item itemvalue="Application.SkipWord" />
-        <item itemvalue="Application.Maze" />
-        <item itemvalue="Application.SubSet.amazon.Dice" />
-        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.guess" />
+        <item itemvalue="Application.case300" />
+        <item itemvalue="Application.Case448" />
+        <item itemvalue="Application.Case784" />
+        <item itemvalue="Application.IsSubseq392" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +169,17 @@
       <updated>1762225982696</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -271,6 +210,29 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SubSet/Case448.java</url>
+          <line>15</line>
+          <properties class="SubSet.Case448" method="backtrack">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SubSet/case300.java</url>
+          <line>7</line>
+          <properties class="SubSet.case300" method="londsubseqarray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/StartZeros.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
